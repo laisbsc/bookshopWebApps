@@ -1,6 +1,6 @@
 <? xml version="1.0" encoding="UTF-8"?>
 <catalog>
-<theme name = "science">
+<theme name = "computerScience">
    <book id="01">
       <author>Charles Petzold</author>
       <title>Code: The Hidden Language of Computer Hardware and Software</title>
@@ -15,10 +15,10 @@
       <genre>Introduction to Programming</genre>
       <price>20.50</price>
       <publish_date>17/01/2017</publish_date>
-      <description> walkthrough of computer science concepts you must know. Designed for readers who don't care for academic formalities, it's a fast and easy computer science guide. It teaches the foundations you need to program computers effectively.</description>
+      <description>A walkthrough of computer science concepts you must know. Designed for readers who don't care for academic formalities, it's a fast and easy computer science guide. It teaches the foundations you need to program computers effectively.</description>
    </book>
 </theme>
-<theme name = "Psychology Humour">
+<theme name = "psychologyHumour">
    <book id="03">
       <author>Jon Ronson</author>
       <title>So You've Been Publicly Shamed</title>
@@ -41,28 +41,33 @@
       <genre>Self-help</genre>
       <price>6.65</price>
       <publish_date>13/10/2016</publish_date>
-      <description>Practical, funny, implementable advice and stories that will help you understand why you are how you are, how to love what you can't change, how to change what you don't love, and how to be a badass all the time.</description>
+      <description>Practical, funny, implementable advice and stories that will help you understand why you are how you are,
+          how to love what you can't change, how to change what you don't love, and how to be a badass all the time.</description>
    </book>
 </theme>
-<!--    stopped updating titles here :) -->
+<theme name = "climateChange">
    <book id="06">
-      <author>Randall, Cynthia</author>
-      <title>Lover Birds</title>
-      <genre>Romance</genre>
-      <price>4.95</price>
-      <publish_date>2000-09-02</publish_date>
-      <description>When Carla meets Paul at an ornithology 
-      conference, tempers fly as feathers get ruffled.</description>
+      <author>Mark Lynas</author>
+      <title>Six Degrees: Our Future On A Hotter Planet</title>
+      <genre>Ecology</genre>
+      <price>6.49</price>
+      <publish_date>04/01/2008</publish_date>
+      <description>An eye-opening and vital account of the future of our earth, and our civilisation, if current rates of global warming persist,
+          by the highly acclaimed author of 'High Tide'.</description>
    </book>
    <book id="07">
-      <author>Thurman, Paula</author>
-      <title>Splish Splash</title>
-      <genre>Romance</genre>
-      <price>4.95</price>
-      <publish_date>2000-11-02</publish_date>
-      <description>A deep sea diver finds true love twenty 
-      thousand leagues beneath the sea.</description>
+      <author>Bob Tisdale</author>
+      <title>Dad, Why Are You A Global Warming Denier?: A Short Story That’s Right for the Times</title>
+      <genre>Meteorology</genre>
+      <price>14.95</price>
+      <publish_date>2018</publish_date>
+      <description>I penned the following short-story, set in the year 2017, as a series of conversations between a twentysomething daughter and
+          her mid-50s father. The father is a heretic of the church of catastrophic human-induced global warming/climate change.
+          The daughter, Anna, is a believer.</description>
    </book>
+</theme>
+
+<!--    stopped updating titles here :) -->
    <book id="08">
       <author>Knorr, Stefan</author>
       <title>Creepy Crawlies</title>
